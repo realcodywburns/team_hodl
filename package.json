@@ -1,0 +1,15 @@
+{
+  "name": "team_hodl",
+  "version": "0.1.0",
+  "description": "Time lock contract",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Ethereum",
+    "classic"
+  ],
+  "author": "Cody Burns <DontPanic>",
+  "license": "Apache-2.0"
+}
